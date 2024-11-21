@@ -129,15 +129,18 @@ const AnnivPage = () => {
                 </Card>
                 <div className="text-pretty p-3 h-max flex justify-center items-center text-white">
                     <div className="grid place-items-center">
-                        <h1 className="text-4xl mb-5 font-[Britney-Variable] text-center">Happy 1st Anniversary, My Love!</h1>
+                        <h1 className="text-4xl mb-5 font-[Britney-Variable] text-center">For You My Love~</h1>
                         <p className="mb-4 font-body">I may not have a big surprise for you today, but I hope you’ll love this simple website I made for you
                         </p>
-                        <p className="mb-4 font-body">We've been through ups and downs, and it may be even tougher in the future.
-                            But I pray that we will endure the hardships to come, with God's strength and provision.
-                            May we always seek God in everything we do, together, forever, by His power. <span className="font-bold">I love you!</span>
+                        <p className="mb-4 font-body">I'm seeing this world black and white or we can simply call it monochrome, and you're come into my life, you're my color.
+                            You're the one who makes my life more colorful, more beautiful, and more meaningful. Everyday i'm always think about how to be better for you, for us.
+                            I'm seeing you with other man, he's good, treat you better, do anything that i can't do for you. I'm not regret it, because i know you deserve it.
+                            But i'd be lying if i said i'm not jealous, i really wanna do that for you, but i can't. I'm sorry for that, im sorry, im sorry... maybe if i'm from different family or different background, i can do that for you.
+                            Little things that you should know is i still choosing you  
+                            <span className="font-bold">I love you!</span>
                         </p>
                         <p className="mb-4 font-body">I may not be exactly what you once imagined,
-                            but I promise to be the partner who will always be there for you and meet your needs.
+                            but I hope you'll see that I'm trying to be the best person I can be for you.
                         </p>
                         <p className="font-body">
                             By the way, this song will always remind me of you.
