@@ -205,7 +205,7 @@ const CountdownPage = () => {
         //     navigate('/happy-anniversary')
         // }
         //change date mypalssss
-        if (now === "11/21/2024") {
+        if (now === "07/14/2025") {
             navigate('/happy-anniversary')
         }
     }, [navigate]);

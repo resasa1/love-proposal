@@ -75,7 +75,7 @@ const AnnivPage = () => {
     useEffect(() => {
         console.log(now)
         //change date mypal
-        if (now != "07/14/2025") { // must change to date to today (*dont forget to edit in CountdownPage.tsx. typing in find m'mypal* it will direct you to date edit)
+        if (now != "7/14/2025") { // must change to date to today (*dont forget to edit in CountdownPage.tsx. typing in find m'mypal* it will direct you to date edit)
             navigate('/wait')
         }
         else {
